@@ -6,15 +6,25 @@ Este projeto visa a criação de um sistema de computador baseado em tecnologia 
 Alguns dos benefícios desta aplicação são:
 
 -Recolhimento e alocamento automático de impostos, conforme legislação vigente.
+
 -Informação pública trasparente e de melhor qualidade. A tecnologia garante a autenticidade, disponibilidade, confidencialidade e integridade da informação. (Promovendo assim uma informação muito mais segura do que a registrada e guardada em papel)
+
 -Facilita a criação e a execução de Leis.
+
 -Tornar os gastos públicos completamente auditáveis por todos.
+
 -Economia de Recursos Orçamentários
+
 -Levantamento de indicadores para melhor tomada de decisões de direcionamento de impostos.
+
 -Maior participação popular
+
 -Fortalecimento da democracia
+
 -Maior acesso á representatividade democrática
+
 -Sistema de votação mais seguro e auditável
+
 -Facilita a sanitização da Administração Pública no País.
 
 Nesta primeira fase será criada uma aplicação que permita o cidadão fazer fazer a criação e votação direta de leis. Desde que haja apoio popular. Esta Primeira aplicação tem como objetivo devolver o poder de legislar aos seus verdadeiros donos: A população brasileira. 
